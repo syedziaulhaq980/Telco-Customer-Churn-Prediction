@@ -36,10 +36,10 @@ The dataset contains information about:
 
 ### Target Variable
 
-`Churn`
+Churn
 
-* `0` → Customer did not churn
-* `1` → Customer churned
+* 0 → Customer did not churn
+* 1 → Customer churned
 
 ## 🛠️ Technologies & Libraries
 
@@ -54,7 +54,7 @@ The dataset contains information about:
 
 ## 🔄 Machine Learning Workflow
 
-```text
+
 Data Collection
       ↓
 Data Understanding
@@ -80,7 +80,7 @@ Model Evaluation
 Hyperparameter Tuning
       ↓
 Threshold Analysis
-```
+
 
 ## 🧹 Data Preprocessing
 
@@ -129,49 +129,49 @@ Examples of tuned parameters include:
 
 ### Random Forest
 
-* `n_estimators`
-* `max_depth`
-* `min_samples_split`
-* `min_samples_leaf`
-* `max_features`
+* n_estimators
+* max_depth
+* min_samples_split
+* min_samples_leaf
+* max_features
 
 ### Gradient Boosting
 
-* `n_estimators`
-* `learning_rate`
-* `max_depth`
-* `min_samples_split`
-* `min_samples_leaf`
+* n_estimators
+* learning_rate
+* max_depth
+* min_samples_split
+* min_samples_leaf
 
 ### XGBoost
 
-* `n_estimators`
-* `learning_rate`
-* `max_depth`
-* `min_child_weight`
-* `subsample`
+* n_estimators
+* learning_rate
+* max_depth
+* min_child_weight
+* subsample
 
 ### Logistic Regression
 
-* `C`
-* `penalty`
-* `solver`
-* `max_iter`
+* C
+* penalty
+* solver
+* max_iter
 
 ### KNN
 
-* `n_neighbors`
-* `weights`
-* `p`
-* `leaf_size`
+* n_neighbors
+* weights
+* p
+* leaf_size
 
 ### Decision Tree
 
-* `criterion`
-* `max_depth`
-* `min_samples_split`
-* `min_samples_leaf`
-* `max_features`
+* criterion
+* max_depth
+* min_samples_split
+* min_samples_leaf
+* max_features
 
 ## 📈 Tuned Model Results
 
@@ -228,7 +228,7 @@ Through this project, I practiced:
 
 ## 📂 Repository Structure
 
-```text
+
 Telco-Customer-Churn-Prediction/
 │
 ├── Telco_Customer_Churn.ipynb
@@ -256,6 +256,5 @@ BTech Graduate | Python Developer | Data Analyst | AI/ML Enthusiast
 
 GitHub: [@syedziaulhaq980](https://github.com/syedziaulhaq980)
 
----
 
 ⭐ If you find this project useful, feel free to explore the notebook and the complete ML workflow.
